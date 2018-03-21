@@ -1,0 +1,4 @@
+﻿  Functions.c
+f:\programmes\lab1_second_try\lab1_second_try\functions.c(111): warning C4047: return: "char" отличается по уровням косвенного обращения от "char *"
+  lab1_second_try.vcxproj -> F:\Programmes\lab1_second_try\Debug\lab1_second_try.exe
+  lab1_second_try.vcxproj -> F:\Programmes\lab1_second_try\Debug\lab1_second_try.pdb (Partial PDB)
